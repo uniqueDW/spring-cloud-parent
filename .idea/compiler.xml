@@ -15,6 +15,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="configServer" target="1.8" />
       <module name="spring-cloud-comsumer-feign" target="1.8" />
       <module name="spring-cloud-comsumer-ribbon" target="1.8" />
       <module name="spring-cloud-config-server-git" target="1.8" />

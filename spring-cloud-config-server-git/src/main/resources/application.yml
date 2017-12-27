@@ -1,10 +1,11 @@
 spring:
   application:
-    name: config-server
+    name: spring-cloud-config
   cloud:
     config:
       server:
         git:
-          uri: https://github.com/uniqueDW/
+          uri: https://github.com/uniqueDW/spring-cloud-parent
+          search-paths: spring-cloud-config-project
 server:
   port: 1201
