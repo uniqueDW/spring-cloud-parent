@@ -18,6 +18,7 @@
         <module>spring-cloud-eureka-comsumer</module>
         <module>spring-cloud-comsumer-ribbon</module>
         <module>spring-cloud-comsumer-feign</module>
+        <module>spring-cloud-config-client</module>
     </modules>
 
     <parent>

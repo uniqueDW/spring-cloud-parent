@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/spring-cloud-comsumer-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-comsumer-feign/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-config-server-git/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-client/pom.xml" />
       </list>
     </option>
   </component>

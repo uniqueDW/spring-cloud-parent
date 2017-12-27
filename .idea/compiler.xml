@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-comsumer-feign" />
         <module name="spring-cloud-comsumer-ribbon" />
+        <module name="spring-cloud-config-client" />
         <module name="spring-cloud-config-server-git" />
         <module name="spring-cloud-eureka-client" />
         <module name="spring-cloud-eureka-comsumer" />
@@ -18,6 +19,7 @@
       <module name="configServer" target="1.8" />
       <module name="spring-cloud-comsumer-feign" target="1.8" />
       <module name="spring-cloud-comsumer-ribbon" target="1.8" />
+      <module name="spring-cloud-config-client" target="1.8" />
       <module name="spring-cloud-config-server-git" target="1.8" />
       <module name="spring-cloud-eureka-client" target="1.8" />
       <module name="spring-cloud-eureka-comsumer" target="1.8" />
