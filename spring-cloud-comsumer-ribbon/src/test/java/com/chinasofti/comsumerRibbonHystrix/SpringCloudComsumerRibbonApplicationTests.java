@@ -1,4 +1,4 @@
-package com.chinasofti.comsumerRibbon;
+package com.chinasofti.comsumerRibbonHystrix;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
